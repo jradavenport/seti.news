@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            SETI.news
+tagline:          'A research newsletter'
+description:      'A newsletter collecting the latest in academic SETI research.'
+url:              http://SETI.news
+baseurl:          /
+
+author:
+  name: 'James Davenport'
+  url:  'http://SETI.news'
+
+paginate: 3
+
+# Custom vars
+#version:          2.1.0
+
+github:
+  repo: https://github.com/jradavenport/setinews

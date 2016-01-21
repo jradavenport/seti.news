@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>SETI.news</title>
+ <link href="http://SETI.news/atom.xml" rel="self"/>
+ <link href="http://SETI.news/"/>
+ <updated>2016-01-21T11:51:26-08:00</updated>
+ <id>http://SETI.news</id>
+ <author>
+   <name>James Davenport</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Jan 2016</title>
+   <link href="http://SETI.news/2016/01/20/jan2016/"/>
+   <updated>2016-01-20T00:00:00-08:00</updated>
+   <id>http://SETI.news/2016/01/20/jan2016</id>
+   <content type="html">&lt;p&gt;Here are the articles submitted for Jan 2016&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Classic Articles</title>
+   <link href="http://SETI.news/2016/01/01/classics/"/>
+   <updated>2016-01-01T00:00:00-08:00</updated>
+   <id>http://SETI.news/2016/01/01/classics</id>
+   <content type="html">&lt;p&gt;Let&amp;#39;s include a bunch of very classic research articles on SETI.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
