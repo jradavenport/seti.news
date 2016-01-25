@@ -4,13 +4,26 @@
  <title>SETI.news</title>
  <link href="http://SETI.news/atom.xml" rel="self"/>
  <link href="http://SETI.news/"/>
- <updated>2016-01-24T21:43:54-08:00</updated>
+ <updated>2016-01-24T21:58:13-08:00</updated>
  <id>http://SETI.news</id>
  <author>
    <name>James Davenport</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Welcome to SETI.news</title>
+   <link href="http://SETI.news/2016/01/24/welcome/"/>
+   <updated>2016-01-24T00:00:00-08:00</updated>
+   <id>http://SETI.news/2016/01/24/welcome</id>
+   <content type="html">&lt;p&gt;We are starting this website/monthly email list to help disseminate recent academic research on the Search for Extra Terrestrial Intelligence (SETI). This will only include academic articles or blog posts with relevant observations or testable theory related to SETI. Note this doesn&amp;#39;t include general astrobiology, as there are now multiple appropriate research journals devoted to that topic. Spam, abject speculation, hoaxes, and conspiracy theory will not be included. &lt;/p&gt;
+
+&lt;p&gt;If you are interested in staying up to date with the latest SETI research, &lt;a href=&quot;http://eepurl.com/bNHyav&quot;&gt;sign up for the email list!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you are writing a research paper or article on a SETI topic, please &lt;a href=&quot;http://goo.gl/forms/nXtzvp8XBK&quot;&gt;submit it&lt;/a&gt; for our monthly mailing!&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Articles from 2010</title>
