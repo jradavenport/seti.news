@@ -7,6 +7,13 @@ Academic research on the [Search for Extra Terrestrial Intelligence](https://en.
 
 This newsletter was started in January 2016 as an attempt to aggregate and disseminate legitimate academic SETI research to the community.
 
-Questions or Comments should be sent to [James R. A. Davenport](http://jradavenport.github.io).
 
 SETI.news is not a research journal, and is not affiliated with any other organization, including the SETI Institute, NASA, the National Science Foundation, nor any public or private university.
+
+
+### Authors
+
+- [James R. A. Davenport](http://jradavenport.github.io)
+- Daryll LaCourse 
+
+*Help running the website is always welcomed! Reach out [to us](https://twitter.com/jradavenport), or file an issue on [GitHub](https://github.com/jradavenport/setinews/tree/gh-pages).*
