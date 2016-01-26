@@ -11,9 +11,13 @@ This newsletter was started in January 2016 as an attempt to aggregate and disse
 SETI.news is not a research journal, and is not affiliated with any other organization, including the SETI Institute, NASA, the National Science Foundation, nor any public or private university.
 
 
-### Authors
+### Curators
 
 - [James R. A. Davenport](http://jradavenport.github.io)
 - Daryll LaCourse 
 
 *Help running the website is always welcomed! Reach out [to us](https://twitter.com/jradavenport), or file an issue on [GitHub](https://github.com/jradavenport/setinews/tree/gh-pages).*
+
+
+#### *Fine Print*
+Note: SETI.news uses cookies and basic traffic analytics to track page views. We do this so we can understand where visitors are coming from, and which pages/posts they are interested in. For more information about the cookies being used, or to opt out, visit [this page](http://statcounter.com/about/cookies/).
