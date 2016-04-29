@@ -4,13 +4,24 @@
  <title>SETI.news</title>
  <link href="http://SETI.news/atom.xml" rel="self"/>
  <link href="http://SETI.news/"/>
- <updated>2016-03-31T10:23:49-07:00</updated>
+ <updated>2016-04-29T10:58:53-07:00</updated>
  <id>http://SETI.news</id>
  <author>
    <name>James Davenport</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>2016 APR Mailing</title>
+   <link href="http://SETI.news/2016/04/29/apr2016.html"/>
+   <updated>2016-04-29T00:00:00-07:00</updated>
+   <id>http://SETI.news/2016/04/29/apr2016</id>
+   <content type="html">&lt;p&gt;The 2016 APR mailing of SETI.news is out! &lt;a href=&quot;http://us6.campaign-archive1.com/?u=d896005c207438af0297357d5&amp;amp;id=45437bc9cc&quot;&gt;View this mailing&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://news.us6.list-manage.com/subscribe/post?u=d896005c207438af0297357d5&amp;amp;id=8caf9a6589&quot;&gt;Subscribe&lt;/a&gt; for the latest SETI research articles and news delivered monthly to your inbox.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>2016 MAR Mailing</title>
