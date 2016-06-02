@@ -22,3 +22,5 @@ SETI.news is not a research journal, and is not affiliated with any other organi
 
 #### *Fine Print*
 Note: SETI.news uses cookies and basic traffic analytics to track page views. We do this so we can understand where visitors are coming from, and which pages/posts they are interested in. For more information about the cookies being used, or to opt out, visit [this page](http://statcounter.com/about/cookies/).
+
+James Davenport is supported by a Postdoctoral Fellowship from the National Science Foundation. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
