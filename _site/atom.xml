@@ -4,13 +4,28 @@
  <title>SETI.news</title>
  <link href="http://SETI.news/atom.xml" rel="self"/>
  <link href="http://SETI.news/"/>
- <updated>2016-07-01T15:55:31-07:00</updated>
+ <updated>2016-08-01T09:18:21-07:00</updated>
  <id>http://SETI.news</id>
  <author>
    <name>James Davenport</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>2016 JULY Mailing</title>
+   <link href="http://SETI.news/2016/07/31/jul2016.html"/>
+   <updated>2016-07-31T00:00:00-07:00</updated>
+   <id>http://SETI.news/2016/07/31/jul2016</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://us6.campaign-archive2.com/?u=d896005c207438af0297357d5&amp;amp;id=3ffb15a4bf&quot;&gt;The 2016 July mailing of SETI.news is out!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Fun fact:&lt;/strong&gt;
+&lt;br /&gt;
+This month is the largest mailer yet, with 6 SETI articles and a series of wonderful lectures from the Breakthrough Discuss workshop.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>2016 JUNE Mailing</title>
