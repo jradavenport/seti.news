@@ -4,13 +4,23 @@
  <title>SETI.news</title>
  <link href="http://SETI.news/atom.xml" rel="self"/>
  <link href="http://SETI.news/"/>
- <updated>2016-08-01T09:18:21-07:00</updated>
+ <updated>2016-09-29T11:46:26-07:00</updated>
  <id>http://SETI.news</id>
  <author>
    <name>James Davenport</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>2016 AUG Mailing</title>
+   <link href="http://SETI.news/2016/08/30/aug2016.html"/>
+   <updated>2016-08-30T00:00:00-07:00</updated>
+   <id>http://SETI.news/2016/08/30/aug2016</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://us6.campaign-archive2.com/?u=d896005c207438af0297357d5&amp;amp;id=2dec5c56ac&quot;&gt;The 2016 August mailing of SETI.news is out!&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>2016 JULY Mailing</title>
