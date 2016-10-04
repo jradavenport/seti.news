@@ -248,3 +248,12 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+/* Black - JRADAVENPORT */
+.theme-base-0j .sidebar {
+  background-color: #0F0F0F;
+}
+.theme-base-0j .content a,
+.theme-base-0j .related-posts li a:hover {
+  color: #0F0F0F;
+}
