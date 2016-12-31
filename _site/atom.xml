@@ -4,13 +4,28 @@
  <title>SETI.news</title>
  <link href="http://SETI.news/atom.xml" rel="self"/>
  <link href="http://SETI.news/"/>
- <updated>2016-12-31T12:19:00-08:00</updated>
+ <updated>2016-12-31T12:23:37-08:00</updated>
  <id>http://SETI.news</id>
  <author>
    <name>James Davenport</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>2016 DEC Mailing</title>
+   <link href="http://SETI.news/2016/12/31/dec2016.html"/>
+   <updated>2016-12-31T00:00:00-08:00</updated>
+   <id>http://SETI.news/2016/12/31/dec2016</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://us6.campaign-archive2.com/?u=d896005c207438af0297357d5&amp;amp;id=b2057541f1&quot;&gt;The 2016 December mailing of SETI.news is out!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This marks 1 full year of mailings from SETI.news! The list has grown to nearly 60 subscribers.&lt;/p&gt;
+
+&lt;p&gt;The biggest conversation for SETI research this year was the discovery of unexplained variability from &lt;a href=&quot;https://en.wikipedia.org/wiki/KIC_8462852&quot;&gt;KIC 8462852&lt;/a&gt;, also known as “Boyajian’s Star”, first announced in 2015. We expect much more interest in this object, and searches for similar outliers in large surveys, in 2017!&lt;/p&gt;
+
+&lt;p&gt;If you see any SETI articles we missed posting this year (perhaps ones that didn’t get listed on the arXiv), please let us know by reaching out to &lt;a href=&quot;https://twitter.com/jradavenport&quot;&gt;J. Davenport&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>2016 NOV Mailing</title>
