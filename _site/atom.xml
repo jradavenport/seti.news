@@ -4,13 +4,31 @@
  <title>SETI.news</title>
  <link href="http://SETI.news/atom.xml" rel="self"/>
  <link href="http://SETI.news/"/>
- <updated>2017-07-31T11:09:58-07:00</updated>
+ <updated>2017-12-28T10:57:15-08:00</updated>
  <id>http://SETI.news</id>
  <author>
    <name>James Davenport</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>2017 SETP and OCT Mailing</title>
+   <link href="http://SETI.news/2017/10/31/septoct2017.html"/>
+   <updated>2017-10-31T00:00:00-07:00</updated>
+   <id>http://SETI.news/2017/10/31/septoct2017</id>
+   <content type="html">&lt;p&gt;The 2017 September and October mailing of SETI.news is out. &lt;a href=&quot;https://us6.campaign-archive.com/?u=d896005c207438af0297357d5&amp;amp;id=2f44e5a4e4&quot;&gt;Read it here!&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>2017 AUGUST Mailing</title>
+   <link href="http://SETI.news/2017/08/31/aug2017.html"/>
+   <updated>2017-08-31T00:00:00-07:00</updated>
+   <id>http://SETI.news/2017/08/31/aug2017</id>
+   <content type="html">&lt;p&gt;The 2017 August mailing of SETI.news is out. &lt;a href=&quot;https://us6.campaign-archive.com/?u=d896005c207438af0297357d5&amp;amp;id=56d0f17b0e&quot;&gt;Read it here!&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>2017 JUNE and JULY Mailing</title>
