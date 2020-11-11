@@ -1,25 +1,22 @@
-# Dependencies
-markdown:         kramdown
-highlighter:      rouge
-
-# Permalinks
-gems: [jekyll-paginate]
-
 # Setup
-title:            SETI.news
-tagline:          'A research newsletter'
-description:      'A newsletter collecting the latest in academic SETI research.'
-url:              http://SETI.news
-baseurl:          /
+title:               SETI.news
+tagline:             'The latest in SETI research'
+description:         'A newsletter collecting the latest in academic SETI research.'
+url:                 http://SETI.news
+baseurl:             ''
+paginate:            5
+permalink:           pretty
 
+# About/contact
 author:
-  name: 'James Davenport'
-  url:  'http://SETI.news'
+  name:              James R. A. Davenport
+  url:               https://twitter.com/jradavenport
+  email:             jrad@uw.edu
 
-paginate: 3
+# Gems
+plugins:
+  - jekyll-paginate
 
 # Custom vars
-#version:          2.1.0
-
-github:
-  repo: https://github.com/jradavenport/setinews
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y

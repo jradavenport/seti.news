@@ -1,0 +1,22 @@
+# Setup
+title:               SETI.news
+tagline:             'A research newsletter'
+description:         'A newsletter collecting the latest in academic SETI research.'
+url:                 http://SETI.news
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              James R. A. Davenport
+  url:               https://twitter.com/jradavenport
+  email:             jrad@uw.edu
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y
