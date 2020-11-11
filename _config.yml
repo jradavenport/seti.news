@@ -2,7 +2,7 @@
 title:               SETI.news
 tagline:             'The latest in SETI research'
 description:         'A newsletter collecting the latest in academic SETI research.'
-url:                 http://SETI.news
+url:                 https://SETI.news
 baseurl:             ''
 paginate:            5
 permalink:           pretty
