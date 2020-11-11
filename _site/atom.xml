@@ -4,7 +4,7 @@
  <title>SETI.news</title>
  <link href="https://SETI.news/atom.xml" rel="self"/>
  <link href="https://SETI.news/"/>
- <updated>2020-11-11T15:19:29-08:00</updated>
+ <updated>2020-11-11T15:49:26-08:00</updated>
  <id>https://SETI.news</id>
  <author>
    <name>James R. A. Davenport</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>We're Back!</title>
-   <link href="https://SETI.news/2020/02/19/weback/"/>
-   <updated>2020-02-19T00:00:00-08:00</updated>
-   <id>https://SETI.news/2020/02/19/weback</id>
+   <link href="https://SETI.news/2020/11/11/weback/"/>
+   <updated>2020-11-11T00:00:00-08:00</updated>
+   <id>https://SETI.news/2020/11/11/weback</id>
    <content type="html">&lt;p&gt;Hello SETI.news fans! We had a couple mailings in 2019 of the newsletter, and some catch-up issues in early 2020, but ran in to 2 problems:&lt;/p&gt;
 
 &lt;p&gt;1) the scripts to generate and update this website broke in late 2018, and&lt;/p&gt;
