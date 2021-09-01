@@ -4,13 +4,24 @@
  <title>SETI.news</title>
  <link href="https://SETI.news/atom.xml" rel="self"/>
  <link href="https://SETI.news/"/>
- <updated>2021-07-02T10:41:33-07:00</updated>
+ <updated>2021-09-01T10:24:01-07:00</updated>
  <id>https://SETI.news</id>
  <author>
    <name>James R. A. Davenport</name>
    <email>jrad@uw.edu</email>
  </author>
 
+ 
+ <entry>
+   <title>2021 July and August Mailing</title>
+   <link href="https://SETI.news/2021/09/01/julyaug2021/"/>
+   <updated>2021-09-01T00:00:00-07:00</updated>
+   <id>https://SETI.news/2021/09/01/julyaug2021</id>
+   <content type="html">&lt;p&gt;A combined edition of SETI.news for July and August 2021 is out. It features an amazing 39 entires, &lt;a href=&quot;https://mailchi.mp/4b5d23a75909/mar-apr2019-5187350&quot;&gt;read it here!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Thanks to M. Huston &amp;amp; J. Wright (PSU) for continuing to compile and update the ADS library each month.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>2021 June Mailing</title>
