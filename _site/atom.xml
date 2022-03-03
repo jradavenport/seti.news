@@ -4,13 +4,26 @@
  <title>SETI.news</title>
  <link href="https://SETI.news/atom.xml" rel="self"/>
  <link href="https://SETI.news/"/>
- <updated>2022-02-02T10:23:20-08:00</updated>
+ <updated>2022-03-03T09:17:34-08:00</updated>
  <id>https://SETI.news</id>
  <author>
    <name>James R. A. Davenport</name>
    <email>jrad@uw.edu</email>
  </author>
 
+ 
+ <entry>
+   <title>2022 January Mailing</title>
+   <link href="https://SETI.news/2022/03/01/feb2022/"/>
+   <updated>2022-03-01T00:00:00-08:00</updated>
+   <id>https://SETI.news/2022/03/01/feb2022</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;SETI.news is 6 years old!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The January 2022 mailing of SETI.news is out. &lt;a href=&quot;http://eepurl.com/hTMFPn&quot;&gt;Read it here!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Thanks to M. Huston &amp;amp; J. Wright (PSU) for continuing to compile and update the ADS library each month.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>2022 January Mailing</title>
