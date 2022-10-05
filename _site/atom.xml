@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>SETI.news</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2022-06-03T09:46:40-07:00</updated>
- <id>http://localhost:4000</id>
+ <link href="https://SETI.news/atom.xml" rel="self"/>
+ <link href="https://SETI.news/"/>
+ <updated>2022-10-05T16:53:55-07:00</updated>
+ <id>https://SETI.news</id>
  <author>
    <name>James R. A. Davenport</name>
    <email>jrad@uw.edu</email>
@@ -13,10 +13,32 @@
 
  
  <entry>
+   <title>2022 August and September Mailing</title>
+   <link href="https://SETI.news/2022/10/04/augsept2022/"/>
+   <updated>2022-10-04T00:00:00-07:00</updated>
+   <id>https://SETI.news/2022/10/04/augsept2022</id>
+   <content type="html">&lt;p&gt;The August and September 2022 mailing of SETI.news is out. &lt;a href=&quot;http://eepurl.com/iaIrJ9&quot;&gt;Read it here!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Thanks to M. Huston &amp;amp; J. Wright (PSU) for continuing to compile and update the ADS library each month.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>2022 June and July Mailing</title>
+   <link href="https://SETI.news/2022/08/01/junejuly2022/"/>
+   <updated>2022-08-01T00:00:00-07:00</updated>
+   <id>https://SETI.news/2022/08/01/junejuly2022</id>
+   <content type="html">&lt;p&gt;The June and July 2022 mailing of SETI.news is out. &lt;a href=&quot;http://eepurl.com/h7V_Hf&quot;&gt;Read it here!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Thanks to M. Huston &amp;amp; J. Wright (PSU) for continuing to compile and update the ADS library each month.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>2022 May Mailing</title>
-   <link href="http://localhost:4000/2022/06/03/may2022/"/>
+   <link href="https://SETI.news/2022/06/03/may2022/"/>
    <updated>2022-06-03T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2022/06/03/may2022</id>
+   <id>https://SETI.news/2022/06/03/may2022</id>
    <content type="html">&lt;p&gt;The May 2022 mailing of SETI.news is out. &lt;a href=&quot;http://eepurl.com/h3CDh1&quot;&gt;Read it here!&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Thanks to M. Huston &amp;amp; J. Wright (PSU) for continuing to compile and update the ADS library each month.&lt;/p&gt;
@@ -25,9 +47,9 @@
  
  <entry>
    <title>2022 April Mailing</title>
-   <link href="http://localhost:4000/2022/05/02/apr2022/"/>
+   <link href="https://SETI.news/2022/05/02/apr2022/"/>
    <updated>2022-05-02T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2022/05/02/apr2022</id>
+   <id>https://SETI.news/2022/05/02/apr2022</id>
    <content type="html">&lt;p&gt;The April 2022 mailing of SETI.news is out. &lt;a href=&quot;https://mailchi.mp/c36c902dd7b7/mar-apr2019-7063069&quot;&gt;Read it here!&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Thanks to M. Huston &amp;amp; J. Wright (PSU) for continuing to compile and update the ADS library each month.&lt;/p&gt;
@@ -36,9 +58,9 @@
  
  <entry>
    <title>2022 March Mailing</title>
-   <link href="http://localhost:4000/2022/04/03/mar2022/"/>
+   <link href="https://SETI.news/2022/04/03/mar2022/"/>
    <updated>2022-04-03T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2022/04/03/mar2022</id>
+   <id>https://SETI.news/2022/04/03/mar2022</id>
    <content type="html">&lt;p&gt;The March 2022 mailing of SETI.news is out. &lt;a href=&quot;https://mailchi.mp/88e081fb5bd9/mar-apr2019-6750034&quot;&gt;Read it here!&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Thanks to M. Huston &amp;amp; J. Wright (PSU) for continuing to compile and update the ADS library each month.&lt;/p&gt;
@@ -47,9 +69,9 @@
  
  <entry>
    <title>2022 February Mailing</title>
-   <link href="http://localhost:4000/2022/03/01/feb2022/"/>
+   <link href="https://SETI.news/2022/03/01/feb2022/"/>
    <updated>2022-03-01T00:00:00-08:00</updated>
-   <id>http://localhost:4000/2022/03/01/feb2022</id>
+   <id>https://SETI.news/2022/03/01/feb2022</id>
    <content type="html">&lt;p&gt;The February 2022 mailing of SETI.news is out. &lt;a href=&quot;https://mailchi.mp/322b50129ed7/mar-apr2019-6739578&quot;&gt;Read it here!&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Thanks to M. Huston &amp;amp; J. Wright (PSU) for continuing to compile and update the ADS library each month.&lt;/p&gt;
@@ -58,9 +80,9 @@
  
  <entry>
    <title>2022 January Mailing</title>
-   <link href="http://localhost:4000/2022/02/01/jan2022/"/>
+   <link href="https://SETI.news/2022/02/01/jan2022/"/>
    <updated>2022-02-01T00:00:00-08:00</updated>
-   <id>http://localhost:4000/2022/02/01/jan2022</id>
+   <id>https://SETI.news/2022/02/01/jan2022</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;SETI.news is 6 years old!&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;The January 2022 mailing of SETI.news is out. &lt;a href=&quot;http://eepurl.com/hTMFPn&quot;&gt;Read it here!&lt;/a&gt;&lt;/p&gt;
@@ -71,9 +93,9 @@
  
  <entry>
    <title>2021 November Mailing</title>
-   <link href="http://localhost:4000/2021/12/01/nov2021/"/>
+   <link href="https://SETI.news/2021/12/01/nov2021/"/>
    <updated>2021-12-01T00:00:00-08:00</updated>
-   <id>http://localhost:4000/2021/12/01/nov2021</id>
+   <id>https://SETI.news/2021/12/01/nov2021</id>
    <content type="html">&lt;p&gt;The November 2021 mailing of SETI.news is out. &lt;a href=&quot;https://us6.campaign-archive.com/?u=d896005c207438af0297357d5&amp;amp;id=0b30264be9&quot;&gt;Read it here!&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Thanks to M. Huston &amp;amp; J. Wright (PSU) for continuing to compile and update the ADS library each month.&lt;/p&gt;
@@ -82,9 +104,9 @@
  
  <entry>
    <title>2021 October Mailing</title>
-   <link href="http://localhost:4000/2021/11/01/oct2021/"/>
+   <link href="https://SETI.news/2021/11/01/oct2021/"/>
    <updated>2021-11-01T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2021/11/01/oct2021</id>
+   <id>https://SETI.news/2021/11/01/oct2021</id>
    <content type="html">&lt;p&gt;The October 2021 mailing of SETI.news is out. &lt;a href=&quot;https://us6.campaign-archive.com/?u=d896005c207438af0297357d5&amp;amp;id=970e828e9f&quot;&gt;Read it here!&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Thanks to M. Huston &amp;amp; J. Wright (PSU) for continuing to compile and update the ADS library each month.&lt;/p&gt;
@@ -93,9 +115,9 @@
  
  <entry>
    <title>2021 September Mailing</title>
-   <link href="http://localhost:4000/2021/10/01/sept2021/"/>
+   <link href="https://SETI.news/2021/10/01/sept2021/"/>
    <updated>2021-10-01T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2021/10/01/sept2021</id>
+   <id>https://SETI.news/2021/10/01/sept2021</id>
    <content type="html">&lt;p&gt;The newest edition of SETI.news for September 2021 is out. &lt;a href=&quot;https://us6.campaign-archive.com/?u=d896005c207438af0297357d5&amp;amp;id=0cce079020&quot;&gt;Read it here!&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Thanks to M. Huston &amp;amp; J. Wright (PSU) for continuing to compile and update the ADS library each month.&lt;/p&gt;
@@ -104,9 +126,9 @@
  
  <entry>
    <title>2021 July and August Mailing</title>
-   <link href="http://localhost:4000/2021/09/01/julyaug2021/"/>
+   <link href="https://SETI.news/2021/09/01/julyaug2021/"/>
    <updated>2021-09-01T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2021/09/01/julyaug2021</id>
+   <id>https://SETI.news/2021/09/01/julyaug2021</id>
    <content type="html">&lt;p&gt;A combined edition of SETI.news for July and August 2021 is out. It features an amazing 39 entires, &lt;a href=&quot;https://mailchi.mp/4b5d23a75909/mar-apr2019-5187350&quot;&gt;read it here!&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Thanks to M. Huston &amp;amp; J. Wright (PSU) for continuing to compile and update the ADS library each month.&lt;/p&gt;
@@ -115,9 +137,9 @@
  
  <entry>
    <title>2021 June Mailing</title>
-   <link href="http://localhost:4000/2021/07/02/june2021/"/>
+   <link href="https://SETI.news/2021/07/02/june2021/"/>
    <updated>2021-07-02T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2021/07/02/june2021</id>
+   <id>https://SETI.news/2021/07/02/june2021</id>
    <content type="html">&lt;p&gt;The 2021 June mailing of SETI.news is out. &lt;a href=&quot;https://mailchi.mp/f5e6bddb0226/mar-apr2019-4997882&quot;&gt;Read it here!&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Thanks to M. Huston &amp;amp; J. Wright (PSU) for continuing to compile and update the ADS library each month! Have a great summer!&lt;/p&gt;
@@ -126,9 +148,9 @@
  
  <entry>
    <title>2021 MAY Mailing</title>
-   <link href="http://localhost:4000/2021/06/02/may2021/"/>
+   <link href="https://SETI.news/2021/06/02/may2021/"/>
    <updated>2021-06-02T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2021/06/02/may2021</id>
+   <id>https://SETI.news/2021/06/02/may2021</id>
    <content type="html">&lt;p&gt;The 2021 May mailing of SETI.news is out. &lt;a href=&quot;http://eepurl.com/hAi0ZH&quot;&gt;Read it here!&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Thanks to M. Huston &amp;amp; J. Wright (PSU) for continuing to compile and update the ADS library each month!&lt;/p&gt;
@@ -137,9 +159,9 @@
  
  <entry>
    <title>2021 APR Mailing</title>
-   <link href="http://localhost:4000/2021/05/06/apr2021/"/>
+   <link href="https://SETI.news/2021/05/06/apr2021/"/>
    <updated>2021-05-06T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2021/05/06/apr2021</id>
+   <id>https://SETI.news/2021/05/06/apr2021</id>
    <content type="html">&lt;p&gt;The 2021 April mailing of SETI.news is out. &lt;a href=&quot;http://eepurl.com/hycKMH&quot;&gt;Read it here!&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Many thanks to M. Huston &amp;amp; J. Wright (PSU) for helping compile the ADS library!&lt;/p&gt;
@@ -148,9 +170,9 @@
  
  <entry>
    <title>2021 MAR Mailing</title>
-   <link href="http://localhost:4000/2021/04/05/mar2021/"/>
+   <link href="https://SETI.news/2021/04/05/mar2021/"/>
    <updated>2021-04-05T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2021/04/05/mar2021</id>
+   <id>https://SETI.news/2021/04/05/mar2021</id>
    <content type="html">&lt;p&gt;The 2021 March mailing of SETI.news is out. &lt;a href=&quot;http://eepurl.com/hu6dND&quot;&gt;Read it here!&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Many thanks to M. Huston &amp;amp; J. Wright (PSU) for helping compile the ADS library!&lt;/p&gt;
@@ -159,9 +181,9 @@
  
  <entry>
    <title>2021 FEB Mailing</title>
-   <link href="http://localhost:4000/2021/03/02/feb2021/"/>
+   <link href="https://SETI.news/2021/03/02/feb2021/"/>
    <updated>2021-03-02T00:00:00-08:00</updated>
-   <id>http://localhost:4000/2021/03/02/feb2021</id>
+   <id>https://SETI.news/2021/03/02/feb2021</id>
    <content type="html">&lt;p&gt;The 2021 February mailing of SETI.news is out. &lt;a href=&quot;http://eepurl.com/hr2seb&quot;&gt;Read it here!&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Many thanks to M. Huston &amp;amp; J. Wright (PSU) for helping compile the ADS library!&lt;/p&gt;
@@ -170,9 +192,9 @@
  
  <entry>
    <title>2021 JAN Mailing</title>
-   <link href="http://localhost:4000/2021/02/08/jan2021/"/>
+   <link href="https://SETI.news/2021/02/08/jan2021/"/>
    <updated>2021-02-08T00:00:00-08:00</updated>
-   <id>http://localhost:4000/2021/02/08/jan2021</id>
+   <id>https://SETI.news/2021/02/08/jan2021</id>
    <content type="html">&lt;p&gt;The 2021 January mailing of SETI.news is out. &lt;a href=&quot;http://eepurl.com/hp7GGP&quot;&gt;Read it here!&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;This is the 5th birthday for SETI.news (started Jan 2016)! Thank you &lt;strong&gt;ALL&lt;/strong&gt; for your support and interest in SETI and technosignature research.&lt;/p&gt;
@@ -181,9 +203,9 @@
  
  <entry>
    <title>2020 Year in Review</title>
-   <link href="http://localhost:4000/2021/01/05/review/"/>
+   <link href="https://SETI.news/2021/01/05/review/"/>
    <updated>2021-01-05T00:00:00-08:00</updated>
-   <id>http://localhost:4000/2021/01/05/review</id>
+   <id>https://SETI.news/2021/01/05/review</id>
    <content type="html">&lt;p&gt;As promised, we have published our Year in SETI Research Review issue of SETI.news. In total we gathered 71 articles featuring new scholarly work in the technosignature field from 2020.&lt;/p&gt;
 
 &lt;p&gt;A huge thnaks goes out to Julia LaFond and Jason Wright for gathering the articles from ADS.&lt;/p&gt;
@@ -194,9 +216,9 @@
  
  <entry>
    <title>We're Back!</title>
-   <link href="http://localhost:4000/2020/11/11/weback/"/>
+   <link href="https://SETI.news/2020/11/11/weback/"/>
    <updated>2020-11-11T00:00:00-08:00</updated>
-   <id>http://localhost:4000/2020/11/11/weback</id>
+   <id>https://SETI.news/2020/11/11/weback</id>
    <content type="html">&lt;p&gt;Hello SETI.news fans! We had a couple mailings in 2019 of the newsletter, and some catch-up issues in early 2020, but ran in to 2 problems:&lt;/p&gt;
 
 &lt;p&gt;1) the scripts to generate and update this website broke in late 2018, and&lt;/p&gt;
@@ -211,9 +233,9 @@
  
  <entry>
    <title>2018 FEB and MAR Mailing</title>
-   <link href="http://localhost:4000/2018/04/01/febmar2018/"/>
+   <link href="https://SETI.news/2018/04/01/febmar2018/"/>
    <updated>2018-04-01T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2018/04/01/febmar2018</id>
+   <id>https://SETI.news/2018/04/01/febmar2018</id>
    <content type="html">&lt;p&gt;The 2018 February and March combined mailing of SETI.news is out. &lt;a href=&quot;https://mailchi.mp/72d83bd080bd/t3byxemenb-1370333&quot;&gt;Read it here!&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;The SETI.news research newsletter has now reached over 200 subscribers! Thank you all for reading, and be sure to &lt;a href=&quot;http://goo.gl/forms/nXtzvp8XBK&quot;&gt;submit&lt;/a&gt; any new articles you find/write or that we’ve missed!&lt;/p&gt;
@@ -222,9 +244,9 @@
  
  <entry>
    <title>2018 JAN Mailing</title>
-   <link href="http://localhost:4000/2018/02/01/jan2018/"/>
+   <link href="https://SETI.news/2018/02/01/jan2018/"/>
    <updated>2018-02-01T00:00:00-08:00</updated>
-   <id>http://localhost:4000/2018/02/01/jan2018</id>
+   <id>https://SETI.news/2018/02/01/jan2018</id>
    <content type="html">&lt;p&gt;The 2018 January mailing of SETI.news is out. &lt;a href=&quot;https://mailchi.mp/72d83bd080bd/t3byxemenb-1370333&quot;&gt;Read it here!&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;This is the 3rd birthday for SETI.news (started Jan 2016)! Thank you all for your support, and keep contributing to our newsletter!&lt;/p&gt;
@@ -233,36 +255,36 @@
  
  <entry>
    <title>2017 NOV and DEC Mailing</title>
-   <link href="http://localhost:4000/2017/12/31/novdec2017/"/>
+   <link href="https://SETI.news/2017/12/31/novdec2017/"/>
    <updated>2017-12-31T00:00:00-08:00</updated>
-   <id>http://localhost:4000/2017/12/31/novdec2017</id>
+   <id>https://SETI.news/2017/12/31/novdec2017</id>
    <content type="html">&lt;p&gt;The 2017 November and December mailing of SETI.news is out. &lt;a href=&quot;https://us6.campaign-archive.com/?u=d896005c207438af0297357d5&amp;amp;id=c9beca489e&quot;&gt;Read it here!&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>2017 SEPT and OCT Mailing</title>
-   <link href="http://localhost:4000/2017/10/31/septoct2017/"/>
+   <link href="https://SETI.news/2017/10/31/septoct2017/"/>
    <updated>2017-10-31T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2017/10/31/septoct2017</id>
+   <id>https://SETI.news/2017/10/31/septoct2017</id>
    <content type="html">&lt;p&gt;The 2017 September and October mailing of SETI.news is out. &lt;a href=&quot;https://us6.campaign-archive.com/?u=d896005c207438af0297357d5&amp;amp;id=2f44e5a4e4&quot;&gt;Read it here!&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>2017 AUGUST Mailing</title>
-   <link href="http://localhost:4000/2017/08/31/aug2017/"/>
+   <link href="https://SETI.news/2017/08/31/aug2017/"/>
    <updated>2017-08-31T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2017/08/31/aug2017</id>
+   <id>https://SETI.news/2017/08/31/aug2017</id>
    <content type="html">&lt;p&gt;The 2017 August mailing of SETI.news is out. &lt;a href=&quot;https://us6.campaign-archive.com/?u=d896005c207438af0297357d5&amp;amp;id=56d0f17b0e&quot;&gt;Read it here!&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>2017 JUNE and JULY Mailing</title>
-   <link href="http://localhost:4000/2017/07/31/junjul2017/"/>
+   <link href="https://SETI.news/2017/07/31/junjul2017/"/>
    <updated>2017-07-31T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2017/07/31/junjul2017</id>
+   <id>https://SETI.news/2017/07/31/junjul2017</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://us6.campaign-archive2.com/?u=d896005c207438af0297357d5&amp;amp;id=afdf52a00d&quot;&gt;The 2017 June &amp;amp; July mailing of SETI.news is out!&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;This issue is extra-full, with 15 articles spanning a huge range of topics! Enjoy, and be sure to keep submitting articles you find using the &lt;a href=&quot;http://goo.gl/forms/nXtzvp8XBK&quot;&gt;Submit a Paper&lt;/a&gt; link!&lt;/p&gt;
@@ -271,18 +293,18 @@
  
  <entry>
    <title>2017 APRIL Mailing</title>
-   <link href="http://localhost:4000/2017/04/30/apr2017/"/>
+   <link href="https://SETI.news/2017/04/30/apr2017/"/>
    <updated>2017-04-30T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2017/04/30/apr2017</id>
+   <id>https://SETI.news/2017/04/30/apr2017</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://mailchi.mp/0484cc6a1e84/t3byxemenb&quot;&gt;The 2017 April mailing of SETI.news is out!&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>2017 MAR Mailing</title>
-   <link href="http://localhost:4000/2017/03/31/mar2017/"/>
+   <link href="https://SETI.news/2017/03/31/mar2017/"/>
    <updated>2017-03-31T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2017/03/31/mar2017</id>
+   <id>https://SETI.news/2017/03/31/mar2017</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://us6.campaign-archive2.com/?u=d896005c207438af0297357d5&amp;amp;id=f8e8dc6354&quot;&gt;The 2017 March mailing of SETI.news is out!&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;The email list has now reached 70 subscribers!&lt;/p&gt;
@@ -293,9 +315,9 @@
  
  <entry>
    <title>2017 FEB Mailing</title>
-   <link href="http://localhost:4000/2017/02/28/feb2017/"/>
+   <link href="https://SETI.news/2017/02/28/feb2017/"/>
    <updated>2017-02-28T00:00:00-08:00</updated>
-   <id>http://localhost:4000/2017/02/28/feb2017</id>
+   <id>https://SETI.news/2017/02/28/feb2017</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://us6.campaign-archive1.com/?u=d896005c207438af0297357d5&amp;amp;id=72e0423976&quot;&gt;The 2017 February mailing of SETI.news is out!&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;If you see any SETI articles we missed posting this year (perhaps ones that didn’t get listed on the arXiv), please let us know by reaching out to &lt;a href=&quot;https://twitter.com/jradavenport&quot;&gt;J. Davenport&lt;/a&gt;.&lt;/p&gt;
@@ -304,18 +326,18 @@
  
  <entry>
    <title>2017 JAN Mailing</title>
-   <link href="http://localhost:4000/2017/01/31/jan2017/"/>
+   <link href="https://SETI.news/2017/01/31/jan2017/"/>
    <updated>2017-01-31T00:00:00-08:00</updated>
-   <id>http://localhost:4000/2017/01/31/jan2017</id>
+   <id>https://SETI.news/2017/01/31/jan2017</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://us6.campaign-archive2.com/?u=d896005c207438af0297357d5&amp;amp;id=bd401e9e25&quot;&gt;The 2017 January mailing of SETI.news is out!&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>2016 DEC Mailing</title>
-   <link href="http://localhost:4000/2016/12/31/dec2016/"/>
+   <link href="https://SETI.news/2016/12/31/dec2016/"/>
    <updated>2016-12-31T00:00:00-08:00</updated>
-   <id>http://localhost:4000/2016/12/31/dec2016</id>
+   <id>https://SETI.news/2016/12/31/dec2016</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://us6.campaign-archive2.com/?u=d896005c207438af0297357d5&amp;amp;id=b2057541f1&quot;&gt;The 2016 December mailing of SETI.news is out!&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;This marks 1 full year of mailings from SETI.news! The list has grown to nearly 60 subscribers.&lt;/p&gt;
@@ -328,36 +350,36 @@
  
  <entry>
    <title>2016 NOV Mailing</title>
-   <link href="http://localhost:4000/2016/11/30/nov2016/"/>
+   <link href="https://SETI.news/2016/11/30/nov2016/"/>
    <updated>2016-11-30T00:00:00-08:00</updated>
-   <id>http://localhost:4000/2016/11/30/nov2016</id>
+   <id>https://SETI.news/2016/11/30/nov2016</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://us6.campaign-archive2.com/?u=d896005c207438af0297357d5&amp;amp;id=a37d7299db&quot;&gt;The 2016 November mailing of SETI.news is out!&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>2016 OCT Mailing</title>
-   <link href="http://localhost:4000/2016/10/31/oct2016/"/>
+   <link href="https://SETI.news/2016/10/31/oct2016/"/>
    <updated>2016-10-31T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2016/10/31/oct2016</id>
+   <id>https://SETI.news/2016/10/31/oct2016</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://us6.campaign-archive1.com/?u=d896005c207438af0297357d5&amp;amp;id=d3b3e6800e&quot;&gt;The 2016 October mailing of SETI.news is out!&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>2016 SEPT Mailing</title>
-   <link href="http://localhost:4000/2016/09/30/sep2016/"/>
+   <link href="https://SETI.news/2016/09/30/sep2016/"/>
    <updated>2016-09-30T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2016/09/30/sep2016</id>
+   <id>https://SETI.news/2016/09/30/sep2016</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://us6.campaign-archive1.com/?u=d896005c207438af0297357d5&amp;amp;id=afc8697fcc&quot;&gt;The 2016 September mailing of SETI.news is out!&lt;/a&gt; Check out the new 5 articles we’ve listed from this month, and be sure to submit any other articles you write/find for our next mailing!&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>2016 AUG Mailing</title>
-   <link href="http://localhost:4000/2016/08/30/aug2016/"/>
+   <link href="https://SETI.news/2016/08/30/aug2016/"/>
    <updated>2016-08-30T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2016/08/30/aug2016</id>
+   <id>https://SETI.news/2016/08/30/aug2016</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://us6.campaign-archive2.com/?u=d896005c207438af0297357d5&amp;amp;id=2dec5c56ac&quot;&gt;The 2016 August mailing of SETI.news is out!&lt;/a&gt;&lt;/p&gt;
 
 </content>
@@ -365,9 +387,9 @@
  
  <entry>
    <title>2016 JULY Mailing</title>
-   <link href="http://localhost:4000/2016/07/31/jul2016/"/>
+   <link href="https://SETI.news/2016/07/31/jul2016/"/>
    <updated>2016-07-31T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2016/07/31/jul2016</id>
+   <id>https://SETI.news/2016/07/31/jul2016</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://us6.campaign-archive2.com/?u=d896005c207438af0297357d5&amp;amp;id=3ffb15a4bf&quot;&gt;The 2016 July mailing of SETI.news is out!&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -380,9 +402,9 @@ This month is the largest mailer yet, with 6 SETI articles and a series of wonde
  
  <entry>
    <title>2016 JUNE Mailing</title>
-   <link href="http://localhost:4000/2016/06/30/jun2016/"/>
+   <link href="https://SETI.news/2016/06/30/jun2016/"/>
    <updated>2016-06-30T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2016/06/30/jun2016</id>
+   <id>https://SETI.news/2016/06/30/jun2016</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://us6.campaign-archive1.com/?u=d896005c207438af0297357d5&amp;amp;id=332a1c3493&quot;&gt;The 2016 June mailing of SETI.news is out!&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -395,9 +417,9 @@ The newsletter has reached 50 subscribers!&lt;/p&gt;
  
  <entry>
    <title>2016 MAY Mailing</title>
-   <link href="http://localhost:4000/2016/05/31/may2016/"/>
+   <link href="https://SETI.news/2016/05/31/may2016/"/>
    <updated>2016-05-31T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2016/05/31/may2016</id>
+   <id>https://SETI.news/2016/05/31/may2016</id>
    <content type="html">&lt;p&gt;The 2016 May mailing of SETI.news is out! &lt;a href=&quot;http://us6.campaign-archive1.com/?u=d896005c207438af0297357d5&amp;amp;id=2ffe41058a&quot;&gt;View this mailing&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -417,9 +439,9 @@ The most popular article from &lt;em&gt;last&lt;/em&gt; month’s mailing was: &
  
  <entry>
    <title>2016 APR Mailing</title>
-   <link href="http://localhost:4000/2016/04/29/apr2016/"/>
+   <link href="https://SETI.news/2016/04/29/apr2016/"/>
    <updated>2016-04-29T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2016/04/29/apr2016</id>
+   <id>https://SETI.news/2016/04/29/apr2016</id>
    <content type="html">&lt;p&gt;The 2016 APR mailing of SETI.news is out! &lt;a href=&quot;http://us6.campaign-archive1.com/?u=d896005c207438af0297357d5&amp;amp;id=45437bc9cc&quot;&gt;View this mailing&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://news.us6.list-manage.com/subscribe/post?u=d896005c207438af0297357d5&amp;amp;id=8caf9a6589&quot;&gt;Subscribe&lt;/a&gt; for the latest SETI research articles and news delivered monthly to your inbox.&lt;/p&gt;
@@ -428,9 +450,9 @@ The most popular article from &lt;em&gt;last&lt;/em&gt; month’s mailing was: &
  
  <entry>
    <title>2016 MAR Mailing</title>
-   <link href="http://localhost:4000/2016/03/31/mar2016/"/>
+   <link href="https://SETI.news/2016/03/31/mar2016/"/>
    <updated>2016-03-31T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2016/03/31/mar2016</id>
+   <id>https://SETI.news/2016/03/31/mar2016</id>
    <content type="html">&lt;p&gt;The 2016 MAR mailing of SETI.news is out! &lt;a href=&quot;http://us6.campaign-archive1.com/?u=d896005c207438af0297357d5&amp;amp;id=b14de43cde&amp;amp;e=f07d7280f0&quot;&gt;View this mailing&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Subscribe for the latest SETI research articles and news delivered monthly to your inbox.&lt;/p&gt;
@@ -439,9 +461,9 @@ The most popular article from &lt;em&gt;last&lt;/em&gt; month’s mailing was: &
  
  <entry>
    <title>2016 FEB Mailing</title>
-   <link href="http://localhost:4000/2016/02/29/feb2016/"/>
+   <link href="https://SETI.news/2016/02/29/feb2016/"/>
    <updated>2016-02-29T00:00:00-08:00</updated>
-   <id>http://localhost:4000/2016/02/29/feb2016</id>
+   <id>https://SETI.news/2016/02/29/feb2016</id>
    <content type="html">&lt;p&gt;The 2016 FEB mailing of SETI.news is out! &lt;a href=&quot;http://us6.campaign-archive2.com/?u=d896005c207438af0297357d5&amp;amp;id=2a550b102a&quot;&gt;View this mailing&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Subscribe for the latest SETI research articles and news delivered monthly to your inbox.&lt;/p&gt;
@@ -450,9 +472,9 @@ The most popular article from &lt;em&gt;last&lt;/em&gt; month’s mailing was: &
  
  <entry>
    <title>2016 JAN Mailing</title>
-   <link href="http://localhost:4000/2016/01/31/jan2016/"/>
+   <link href="https://SETI.news/2016/01/31/jan2016/"/>
    <updated>2016-01-31T00:00:00-08:00</updated>
-   <id>http://localhost:4000/2016/01/31/jan2016</id>
+   <id>https://SETI.news/2016/01/31/jan2016</id>
    <content type="html">&lt;p&gt;The 2016 JAN mailing of SETI.news is out! &lt;a href=&quot;http://us6.campaign-archive2.com/?u=d896005c207438af0297357d5&amp;amp;id=503f9f55bd&quot;&gt;View this mailing&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Subscribe for the latest SETI research articles and news delivered monthly to your inbox.&lt;/p&gt;
@@ -461,9 +483,9 @@ The most popular article from &lt;em&gt;last&lt;/em&gt; month’s mailing was: &
  
  <entry>
    <title>Welcome to SETI.news</title>
-   <link href="http://localhost:4000/2016/01/24/welcome/"/>
+   <link href="https://SETI.news/2016/01/24/welcome/"/>
    <updated>2016-01-24T00:00:00-08:00</updated>
-   <id>http://localhost:4000/2016/01/24/welcome</id>
+   <id>https://SETI.news/2016/01/24/welcome</id>
    <content type="html">&lt;p&gt;We are starting this website/monthly email list to help disseminate recent academic research on the Search for Extra Terrestrial Intelligence (SETI). This will only include academic articles or blog posts with relevant observations or testable theory related to SETI. Note this doesn’t include general astrobiology, as there are now multiple appropriate research journals devoted to that topic. Spam, abject speculation, hoaxes, and conspiracy theory will not be included.&lt;/p&gt;
 
 &lt;p&gt;If you are interested in staying up to date with the latest SETI research, &lt;a href=&quot;http://eepurl.com/bNHyav&quot;&gt;sign up for the email list!&lt;/a&gt;&lt;/p&gt;
@@ -474,9 +496,9 @@ The most popular article from &lt;em&gt;last&lt;/em&gt; month’s mailing was: &
  
  <entry>
    <title>Articles from 2010</title>
-   <link href="http://localhost:4000/2016/01/02/review2010/"/>
+   <link href="https://SETI.news/2016/01/02/review2010/"/>
    <updated>2016-01-02T00:00:00-08:00</updated>
-   <id>http://localhost:4000/2016/01/02/review2010</id>
+   <id>https://SETI.news/2016/01/02/review2010</id>
    <content type="html">&lt;p&gt;Here are a bunch of SETI articles from 2010:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -493,9 +515,9 @@ The most popular article from &lt;em&gt;last&lt;/em&gt; month’s mailing was: &
  
  <entry>
    <title>Articles from 1999-2009</title>
-   <link href="http://localhost:4000/2016/01/02/review2009/"/>
+   <link href="https://SETI.news/2016/01/02/review2009/"/>
    <updated>2016-01-02T00:00:00-08:00</updated>
-   <id>http://localhost:4000/2016/01/02/review2009</id>
+   <id>https://SETI.news/2016/01/02/review2009</id>
    <content type="html">&lt;p&gt;Here are a bunch of SETI articles from 1999-2009 (in no particular order):&lt;/p&gt;
 
 &lt;ul&gt;
@@ -536,9 +558,9 @@ The most popular article from &lt;em&gt;last&lt;/em&gt; month’s mailing was: &
  
  <entry>
    <title>Classic Articles</title>
-   <link href="http://localhost:4000/2016/01/01/classics/"/>
+   <link href="https://SETI.news/2016/01/01/classics/"/>
    <updated>2016-01-01T00:00:00-08:00</updated>
-   <id>http://localhost:4000/2016/01/01/classics</id>
+   <id>https://SETI.news/2016/01/01/classics</id>
    <content type="html">&lt;p&gt;Prof. Jason Wright has a nice &lt;a href=&quot;http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&amp;amp;libname=SETI&amp;amp;libid=4302931cb0&quot;&gt;ADS library&lt;/a&gt; that includes many classic (and recent) SETI papers&lt;/p&gt;
 
 &lt;h2 id=&quot;here-are-some-classic-articles-on-seti&quot;&gt;Here are some “classic” articles on SETI.&lt;/h2&gt;
