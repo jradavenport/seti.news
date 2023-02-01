@@ -4,7 +4,7 @@
  <title>SETI.news</title>
  <link href="https://SETI.news/atom.xml" rel="self"/>
  <link href="https://SETI.news/"/>
- <updated>2022-10-05T16:53:55-07:00</updated>
+ <updated>2023-02-01T13:47:59-08:00</updated>
  <id>https://SETI.news</id>
  <author>
    <name>James R. A. Davenport</name>
@@ -13,11 +13,33 @@
 
  
  <entry>
+   <title>2022 Nov to 2023 Jan Mailing</title>
+   <link href="https://SETI.news/2023/02/01/jan2023/"/>
+   <updated>2023-02-01T00:00:00-08:00</updated>
+   <id>https://SETI.news/2023/02/01/jan2023</id>
+   <content type="html">&lt;p&gt;The Nov 2022 - Jan 2023 mailing of SETI.news is out. &lt;a href=&quot;https://mailchi.mp/a3ef220716cc/mar-apr2019-8130815&quot;&gt;Read it here!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Thanks to M. Huston &amp;amp; J. Wright (PSU) for continuing to compile and update the ADS library each month.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>2022 August and September Mailing</title>
    <link href="https://SETI.news/2022/10/04/augsept2022/"/>
    <updated>2022-10-04T00:00:00-07:00</updated>
    <id>https://SETI.news/2022/10/04/augsept2022</id>
    <content type="html">&lt;p&gt;The August and September 2022 mailing of SETI.news is out. &lt;a href=&quot;http://eepurl.com/iaIrJ9&quot;&gt;Read it here!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Thanks to M. Huston &amp;amp; J. Wright (PSU) for continuing to compile and update the ADS library each month.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>2022 June and July Mailing</title>
+   <link href="https://SETI.news/2022/10/02/oct2022/"/>
+   <updated>2022-10-02T00:00:00-07:00</updated>
+   <id>https://SETI.news/2022/10/02/oct2022</id>
+   <content type="html">&lt;p&gt;The June and July 2022 mailing of SETI.news is out. &lt;a href=&quot;http://eepurl.com/h7V_Hf&quot;&gt;Read it here!&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Thanks to M. Huston &amp;amp; J. Wright (PSU) for continuing to compile and update the ADS library each month.&lt;/p&gt;
 </content>
